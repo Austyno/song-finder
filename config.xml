@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>helloworld</name>
+<widget id="com.surgeStoneTech.songfinder" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Song Finder</name>
     <description>
-        A basic Framework7 Media App for PhoneGap.
+        A Framework7 Media App for PhoneGap.
     </description>
-    <author email="tommy@devgeeks.org" href="http://phonegap.com">
-        Adobe PhoneGap Team
+    <author email="aatehilla@gmail.com" href="">
+        SurgeStone Team
     </author>
     <content src="index.html" />
     <access origin="*" />
